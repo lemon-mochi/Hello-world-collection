@@ -3,5 +3,6 @@
 *.f95 linguist-language=Fortran
 
 *.m linguist-language=MATLAB
-
 *.b linguist-language=B
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
