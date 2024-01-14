@@ -4,3 +4,4 @@
 
 *.m linguist-language=MATLAB
 
+*.b linguist-language=B
