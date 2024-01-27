@@ -1,0 +1,8 @@
+*.f linguist-language=Fortran
+*.f90 linguist-language=Fortran
+*.f95 linguist-language=Fortran
+
+*.m linguist-language=MATLAB
+*.b linguist-language=B
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
