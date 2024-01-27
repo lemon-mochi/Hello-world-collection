@@ -6,3 +6,4 @@
 *.b linguist-language=B
 *.py linguist-language=Python
 *.js linguist-language=JavaScript
+*.i linguist-vendored
